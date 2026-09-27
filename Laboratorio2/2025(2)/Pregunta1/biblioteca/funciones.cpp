@@ -2,10 +2,9 @@
 #include <fstream>
 #include <cstring>
 
-#include "estructuras/lista.h"
-
 using namespace std;
 
+#include "estructuras/lista.h"
 #include "estructuras/elementoNodo.h"
 #include "estructuras/nodo.h"
 #include "funciones.h"
